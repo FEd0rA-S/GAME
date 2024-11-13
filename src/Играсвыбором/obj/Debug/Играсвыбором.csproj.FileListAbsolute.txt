@@ -1,0 +1,7 @@
+C:\YDisk\#Федя\#projects\колледж\C#\Играсвыбором\Играсвыбором\bin\Debug\Играсвыбором.exe.config
+C:\YDisk\#Федя\#projects\колледж\C#\Играсвыбором\Играсвыбором\bin\Debug\Играсвыбором.exe
+C:\YDisk\#Федя\#projects\колледж\C#\Играсвыбором\Играсвыбором\bin\Debug\Играсвыбором.pdb
+C:\YDisk\#Федя\#projects\колледж\C#\Играсвыбором\Играсвыбором\obj\Debug\Играсвыбором.csproj.AssemblyReference.cache
+C:\YDisk\#Федя\#projects\колледж\C#\Играсвыбором\Играсвыбором\obj\Debug\Играсвыбором.csproj.CoreCompileInputs.cache
+C:\YDisk\#Федя\#projects\колледж\C#\Играсвыбором\Играсвыбором\obj\Debug\Играсвыбором.exe
+C:\YDisk\#Федя\#projects\колледж\C#\Играсвыбором\Играсвыбором\obj\Debug\Играсвыбором.pdb
